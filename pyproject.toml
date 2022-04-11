@@ -4,5 +4,5 @@ build-backend = "flit_core.buildapi"
 
 [project]
 name = "Portal da Transparência"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+authors = [{name = "GEDAD", email = "gedad@cge.sc.gov.br"}]
 dynamic = ["version", "description"]
