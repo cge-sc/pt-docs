@@ -1,17 +1,11 @@
 Bem-vindo à documentção do Portal!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+O objetivo desse manual é manter a documentação do Portal da Transparência em formato aberto.
 
 .. note::
 
-   This project is under active development.
+   Temos muito a evoluir.
 
 Contents
 --------
