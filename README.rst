@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+Documentação do Portal da Transparência
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Esta documentação tem como objetivo facilitar o desenvolvimento do Portal da Transparência.
 
-Read the tutorial here:
+Acesse o Portal da Transparência em:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+http://www.transparencia.sc.gov.br/
