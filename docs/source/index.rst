@@ -1,7 +1,7 @@
-.. figure:: http://dados.sc.gov.br/dataset/8f14904e-91c9-482e-9b3b-862aad886b52/resource/1375d12d-d53b-4307-8506-334d491a0dab/download/portal-da-transparencia.png
+.. figure:: portal-da-transparencia.png
    :width: 80%
    :align: center
-   :alt: GitHub template for the tutorial
+   :alt: Logotipo do Portal da Transparência
 
 Bem-vindo à documentação do Portal!
 ===================================
