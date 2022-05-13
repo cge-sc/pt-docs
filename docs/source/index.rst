@@ -5,7 +5,7 @@ O objetivo desse manual é manter a documentação do Portal da Transparência e
 
 .. note::
 
-   Temos muito a evoluir.
+   Caso tenha alguma dúvida ou deseja fazer uma correção entre em contato pelo email transparencia@cge.sc.gov.br.
 
 Conteúdos
 --------
