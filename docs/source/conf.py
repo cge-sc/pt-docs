@@ -4,7 +4,7 @@
 
 project = 'Portal da Transparência'
 copyright = '2022, GEDAD'
-author = 'GEDAD'
+author = 'Gerência de Transparência e Dados Abertos - GEDAD'
 
 release = '0.1'
 version = '0.1.0'
